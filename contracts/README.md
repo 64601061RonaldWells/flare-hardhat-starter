@@ -16,3 +16,5 @@ contracts
 ├── README.md
 └── SimpleFtsoExample.sol
 ```
+
+<!-- Auto-update: 2025-10-16T12:31:48.876901 -->
